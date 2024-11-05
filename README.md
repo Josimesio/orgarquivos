@@ -1,2 +1,4 @@
 # orgarquivos
-Um organizador de arquivos automatico
+Tecnologias usadas:
+Python 3.12.    
+ 
